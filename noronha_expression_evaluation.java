@@ -1,4 +1,4 @@
-public class ExpressionEvaluation {
+public class noronha_expression_evaluation {
     public static void main(String[] args) {
         int a = 5, b = 10, c = 9, d = 6, e = 4;
         
